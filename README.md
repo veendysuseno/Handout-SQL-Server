@@ -101,7 +101,7 @@ Membahas cara membuat dan menjalankan prosedur yang disimpan, serta pengelolaan 
 
 1. Clone repositori ini:
    ```bash
-   git clone <URL_REPOSITORY>
+   git clone ![https://github.com/veendysuseno/Handout-SQL-Server](https://github.com/veendysuseno/Handout-SQL-Server)
    ```
 2. Akses direktori handout:
    ```bash
