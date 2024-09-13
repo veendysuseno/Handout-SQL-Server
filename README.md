@@ -6,22 +6,29 @@ Direktori ini berisi handout pembelajaran mengenai SQL Server yang mencakup berb
 
 1. [Getting Records](#getting-records)
 
-   - 1.1. SELECT Statement
+   - 1.1. SELECT Statement From Table
    - 1.2. Filtering Records
-   - 1.3. Sorting Records
+   - 1.3. Sorting, Summarize Records
+   - 1.4. Combining The Table
 
 2. [More on Getting Records](#more-on-getting-records)
 
    - 2.1. JOIN Operations
    - 2.2. Subqueries
    - 2.3. Aggregation Functions
+   - 2.4. Derived Table
+   - 2.5. CTE (Common Table Expression)
+   - 2.6. Pivot Table
 
 3. [Data Type](#data-type)
 
-   - 3.1. Numeric Data Types
-   - 3.2. Character Data Types
-   - 3.3. Date and Time Data Types
-   - 3.4. Other Data Types
+   - 3.1. Variable and Data Type
+   - 3.2. Numeric and Data Types
+   - 3.3. Character Data Types
+   - 3.4. Date and Time Data Types
+   - 3.5. Other Data Types
+   - 3.6. XML
+   - 3.7. Global Variable
 
 4. [Database and Table](#database-and-table)
 
@@ -29,35 +36,54 @@ Direktori ini berisi handout pembelajaran mengenai SQL Server yang mencakup berb
    - 4.2. Creating Tables
    - 4.3. Altering and Dropping Tables
    - 4.4. Indexes
+   - 4.5. Data Manipulation
+   - 4.6. Temporary Table
+   - 4.7. User Defined Types
+   - 4.8. Output Clause
 
 5. [Views](#views)
 
    - 5.1. Creating Views
-   - 5.2. Updating Views
-   - 5.3. Dropping Views
+   - 5.2. Using Views
+   - 5.3. System-Defined Views
+   - 5.4. Indexed Views
+   - 5.5. Updating Views
+   - 5.6. Dropping Views
 
 6. [Flow Control](#flow-control)
 
    - 6.1. IF...ELSE Statements
    - 6.2. CASE Statements
-   - 6.3. GOTO and RETURN
+   - 6.3. While Loop
+   - 6.4. Try Catch Error
+   - 6.5. GOTO and RETURN
 
 7. [Functions](#functions)
 
-   - 7.1. Scalar Functions
-   - 7.2. Aggregate Functions
-   - 7.3. User-Defined Functions
+   - 7.1. Function Itroduction
+   - 7.2. Table Value Parameter
+   - 7.3. Window Rangking Function
+   - 7.4. Windows Offset Function
+   - 7.5. Other System Function
+   - 7.6. Scalar Functions
+   - 7.7. Aggregate Functions
+   - 7.8. User-Defined Functions
 
 8. [Control and Security](#control-and-security)
 
    - 8.1. User Roles and Permissions
-   - 8.2. Managing Security
-   - 8.3. Backup and Restore
+   - 8.2  DCL (Data Control Language)
+   - 8.3. Schema
+   - 8.4. Managing Security
+   - 8.5. Backup and Restore
 
 9. [Procedure and Transaction](#procedure-and-transaction)
    - 9.1. Creating Stored Procedures
    - 9.2. Executing Stored Procedures
    - 9.3. Transactions and Error Handling
+   - 9.4. Other kind of Procedure
+   - 9.5. Trigger
+   - 9.6  Explicit Transaction
 
 ## Deskripsi Bab
 
